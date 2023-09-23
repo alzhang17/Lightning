@@ -48,14 +48,7 @@ startX = endX;
 startY = endY;
   }
 
-/*fire = loadImage("fire.jpeg");
-fire.resize(100,75);
-image(fire,endX-25,endY-75);
 
-cloud = loadImage("cloudtwo.png");
-cloud.resize(100,100);
-image(cloud,cloudX-50, -10);
-*/
 }
 
 void mousePressed()
