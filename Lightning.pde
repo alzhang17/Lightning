@@ -48,15 +48,14 @@ startX = endX;
 startY = endY;
   }
 
-String fireUrl = "https://media.istockphoto.com/id/113494458/photo/fire-isolated-over-black-background.jpg?s=170667a&w=0&k=20&c=mV7mzBstDEZsx-Tlq1xOQDgVLkFYA5wzAvyllMUjHN8=";
-fire = loadImage(fireUrl);
+/*fire = loadImage("fire.jpeg");
 fire.resize(100,75);
 image(fire,endX-25,endY-75);
 
-String cloudUrl = "https://image.similarpng.com/very-thumbnail/2020/09/Fluffy-white-cartoon-cloud-on-blue-sky-on-transparent-PNG.png";
-cloud = loadImage(cloudUrl);
+cloud = loadImage("cloudtwo.png");
 cloud.resize(100,100);
 image(cloud,cloudX-50, -10);
+*/
 }
 
 void mousePressed()
