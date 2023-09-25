@@ -45,6 +45,7 @@ line(startX, startY, endX, endY);
 startX = endX;
 startY = endY;
   }
+
 fire = loadImage("fire.jpeg");
 fire.resize(100,75);
 image(fire,endX-25,endY-75);
